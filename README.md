@@ -28,6 +28,10 @@ UI界面间的切换使用一个界面栈进行管理--加载新界面则入栈�
 
 ### Home界面
 
+![Home界面](./GithubSource/Home.jpg)
+
+![HomeTop](./GithubSource/Home_Top.jpg)
+
 ### 心率测量界面
 
 ### 秒表界面
