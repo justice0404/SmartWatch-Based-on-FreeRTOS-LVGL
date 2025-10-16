@@ -1,0 +1,14 @@
+templete\lv_anim_timeline.o: ..\LVGL\src\misc\lv_anim_timeline.c
+templete\lv_anim_timeline.o: ..\LVGL\src\misc\lv_anim_timeline.h
+templete\lv_anim_timeline.o: ..\LVGL\src\misc\lv_anim.h
+templete\lv_anim_timeline.o: ..\LVGL\src\misc\../lv_conf_internal.h
+templete\lv_anim_timeline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+templete\lv_anim_timeline.o: ..\LVGL\src\misc\../lv_conf_kconfig.h
+templete\lv_anim_timeline.o: ..\LVGL\examples\porting\../../lv_conf.h
+templete\lv_anim_timeline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+templete\lv_anim_timeline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+templete\lv_anim_timeline.o: ..\LVGL\src\misc\lv_mem.h
+templete\lv_anim_timeline.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+templete\lv_anim_timeline.o: ..\LVGL\src\misc\lv_types.h
+templete\lv_anim_timeline.o: ..\LVGL\src\misc\lv_assert.h
+templete\lv_anim_timeline.o: ..\LVGL\src\misc\lv_log.h
