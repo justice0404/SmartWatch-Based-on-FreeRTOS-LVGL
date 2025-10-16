@@ -211,11 +211,11 @@ typedef struct
     HW_RTC_InterfaceTypeDef RealTimeClock;
     HW_Power_InterfaceTypeDef Power;
     HW_LCD_InterfaceTypeDef LCD;
-	HW_AHT21_InterfaceTypeDef AHT21;
-	HW_Barometer_InterfaceTypeDef Barometer;
+	  HW_AHT21_InterfaceTypeDef AHT21;
+	  HW_Barometer_InterfaceTypeDef Barometer;
     HW_Ecompass_InterfaceTypeDef Ecompass;
     HW_HRmeter_InterfaceTypeDef HR_meter;
-	HW_IMU_InterfaceTypeDef IMU;
+	  HW_IMU_InterfaceTypeDef IMU;
 } HW_InterfaceTypeDef;
 
 
