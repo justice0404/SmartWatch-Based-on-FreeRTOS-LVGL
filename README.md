@@ -16,7 +16,7 @@
 
 按下按键等外部中断唤醒MCU，重新进入运行模式。
 
-
+![lowpower](./GithubSource/lowpower.gif)
 
 ### UI界面切换
 
@@ -24,7 +24,7 @@
 
 UI界面间的切换使用一个界面栈进行管理--加载新界面则入栈，按键按下则出栈，返回上一界面。
 
-
+![UIchange](./GithubSource/UI_Change.gif)
 
 ### Home界面
 
@@ -34,13 +34,29 @@ UI界面间的切换使用一个界面栈进行管理--加载新界面则入栈�
 
 ### 心率测量界面
 
+![HeartRate](./GithubSource/HeartRate.gif)
+
 ### 秒表界面
+
+![Stopwatch](./GithubSource/stopwatch.gif)
 
 ### 指南针界面
 
+![compass](./GithubSource/compass.gif)
+
 ### 温湿度测量界面
 
+![env](./GithubSource/Env.gif)
+
 ### 设置界面
+
+![1](./GithubSource/1.jpg)
+
+![2](./GithubSource/2.jpg)
+
+![3](./GithubSource/3.jpg)
+
+![4](./GithubSource/4.jpg)
 
 ---
 
